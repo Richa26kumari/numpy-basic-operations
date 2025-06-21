@@ -1,5 +1,6 @@
 # numpy-basic-operations
-Practice notebook exploring NumPy fundamentals and operations
+> A beginner-friendly NumPy project demonstrating array creation, indexing, reshaping, math operations, and more.
+
 
 
 # 🔢 NumPy Practice Project
